@@ -8,3 +8,5 @@ An Original Shooting Game with Pyxel
 html: you can run the game on your browser.
 
 pyxapp: you can run with a `pyxel play`command.
+
+https://github.io/At3388/Shooting-Game/shooting.html
