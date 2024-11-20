@@ -5,5 +5,6 @@ An Original Shooting Game with Pyxel
 - Right key(or Right Button):move to right
 - Left key(or Left Button):move to left
 
-html:you can run the game on your browser.
-pyxapp:you can run with a `pyxel play`command.
+html: you can run the game on your browser.
+
+pyxapp: you can run with a `pyxel play`command.
