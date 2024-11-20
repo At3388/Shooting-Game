@@ -9,4 +9,4 @@ html: you can run the game on your browser.
 
 pyxapp: you can run with a `pyxel play`command.
 
-https://github.io/At3388/Shooting-Game/shooting.html
+https://At3388.github.io/Shooting-Game/shooting.html
